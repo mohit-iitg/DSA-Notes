@@ -1996,6 +1996,39 @@ DFS
 
 ---
 
+# Related LeetCode Problems
+
+### Easy
+
+- 1971. Find if Path Exists in Graph
+
+### Medium
+
+- 200. Number of Islands ⭐⭐⭐⭐⭐
+- 695. Max Area of Island
+- 547. Number of Provinces ⭐⭐⭐⭐⭐
+- 130. Surrounded Regions
+- 417. Pacific Atlantic Water Flow
+- 841. Keys and Rooms
+- 1254. Number of Closed Islands
+- 1905. Count Sub Islands
+- 1020. Number of Enclaves
+
+Recommended order:
+
+1. Find if Path Exists in Graph
+2. Number of Islands
+3. Max Area of Island
+4. Number of Provinces
+5. Surrounded Regions
+6. Pacific Atlantic Water Flow
+7. Keys and Rooms
+8. Number of Closed Islands
+9. Count Sub Islands
+10. Number of Enclaves
+
+---
+
 # Common Interview Mistakes
 
 ❌ Forgetting visited[].
@@ -2724,6 +2757,39 @@ Think BFS when the problem asks:
 - Level order traversal
 - Spread over time
 - Nearest source
+
+---
+
+# Related LeetCode Problems
+
+### Easy
+
+- 1971. Find if Path Exists in Graph (BFS version)
+
+### Medium
+
+- 200. Number of Islands (BFS version)
+- 994. Rotten Oranges ⭐⭐⭐⭐⭐
+- 1091. Shortest Path in Binary Matrix ⭐⭐⭐⭐⭐
+- 752. Open the Lock ⭐⭐⭐⭐⭐
+- 127. Word Ladder ⭐⭐⭐⭐⭐
+- 909. Snakes and Ladders ⭐⭐⭐⭐
+- 1293. Shortest Path in a Grid with Obstacles Elimination
+- 864. Shortest Path to Get All Keys
+- 847. Shortest Path Visiting All Nodes
+
+Recommended order:
+
+1. Find if Path Exists in Graph
+2. Number of Islands
+3. Rotten Oranges
+4. Shortest Path in Binary Matrix
+5. Open the Lock
+6. Word Ladder
+7. Snakes and Ladders
+8. Shortest Path in a Grid with Obstacles Elimination
+9. Shortest Path to Get All Keys
+10. Shortest Path Visiting All Nodes
 
 ---
 
